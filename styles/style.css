@@ -8,3 +8,44 @@
 .material-icons.md-24 { font-size: 24px; }
 .material-icons.md-36 { font-size: 36px; }
 .material-icons.md-48 { font-size: 48px; }
+
+/*****************************************
+* Font for the navbar 
+*****************************************/
+.navbar-brand{
+    font-family: 'Outfit', sans-serif;
+}
+
+.bg-info {
+    background-color: #19535F !important;
+}
+
+
+.btn-primary {
+    color: #F0F3F5;
+    background-color: #0B7A75;
+    border-color: #F0F3F5;
+}
+
+.btn-primary:hover {
+    color: #F0F3F5;
+    background-color: #19535F;
+    border-color: #F0F3F5;
+  }
+
+.btn-outline-success{
+    border-color: #F0F3F5;
+    color: #F0F3F5;
+}
+
+.btn-outline-secondary{
+    color: #F0F3F5;
+    background-color: #7B2D26;
+    border-color: #F0F3F5;
+}
+
+.btn-outline-secondary:hover{
+    color: #F0F3F5;
+    background-color: #D7C9AA;
+    border-color: #F0F3F5;
+}
